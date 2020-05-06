@@ -1,0 +1,19 @@
+﻿<Window x:Class="Quiz_3.question2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Quiz_3"
+        mc:Ignorable="d"
+        Title="question2" Height="312.139" Width="292.775">
+    <Grid>
+        <DataGrid x:Name="dataGrid" ItemsSource="{Binding}" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Width="30" Binding="{Binding id}"/>
+                <DataGridTextColumn Header="First Name" Width="80" Binding="{Binding firstName}"/>
+                <DataGridTextColumn Header="Last Name" Width="80" Binding="{Binding lastName}"/>
+                <DataGridTextColumn Header="Registerd" Width="80" Binding="{Binding isRegisterd}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

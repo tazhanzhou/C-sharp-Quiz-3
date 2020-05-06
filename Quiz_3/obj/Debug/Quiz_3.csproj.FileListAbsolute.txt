@@ -1,0 +1,15 @@
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\bin\Debug\Quiz_3.exe.config
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\bin\Debug\Quiz_3.exe
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\bin\Debug\Quiz_3.pdb
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\obj\Debug\Quiz_3.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\obj\Debug\question1.g.cs
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\obj\Debug\App.g.cs
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\obj\Debug\Quiz_3_MarkupCompile.cache
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\obj\Debug\Quiz_3_MarkupCompile.lref
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\obj\Debug\question1.baml
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\obj\Debug\Quiz_3.g.resources
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\obj\Debug\Quiz_3.Properties.Resources.resources
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\obj\Debug\Quiz_3.csproj.GenerateResource.cache
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\obj\Debug\Quiz_3.exe
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\obj\Debug\Quiz_3.pdb
+C:\Users\Utilisateur\source\repos\Quiz_3\Quiz_3\obj\Debug\question2.g.cs
